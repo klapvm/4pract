@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\BurKlaUP4\bin\Debug\BurKlaUP4.exe.config
+C:\Users\Student\source\repos\BurKlaUP4\bin\Debug\BurKlaUP4.exe
+C:\Users\Student\source\repos\BurKlaUP4\bin\Debug\BurKlaUP4.pdb
+C:\Users\Student\source\repos\BurKlaUP4\obj\Debug\BurKlaUP4.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\BurKlaUP4\obj\Debug\BurKlaUP4.exe
+C:\Users\Student\source\repos\BurKlaUP4\obj\Debug\BurKlaUP4.pdb
